@@ -1,0 +1,18 @@
+.el-dialog {
+  &__body {
+    padding: 20px !important;
+    padding-bottom: 10px !important;
+  }
+}
+
+.el-form-item {
+  &__content {
+    display: block !important;
+  }
+}
+
+.el-form--inline {
+  .el-form-item {
+    margin-right: 10px !important;
+  }
+}
